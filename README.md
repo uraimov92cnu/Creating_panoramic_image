@@ -11,3 +11,6 @@ From there we’ll review our project structure and implement a Python script th
 We’ll review the results of this first script, note its limitations, and then implement a second Python script that can be used for more aesthetically pleasing image stitching results.
 
 Finally, we’ll review the results of our second script and again note any limitations or drawbacks.
+
+#### OpenCV’s image stitching algorithm
+![](https://pyimagesearch.com/wp-content/uploads/2018/12/image_stitching_opencv_pipeline.png)
