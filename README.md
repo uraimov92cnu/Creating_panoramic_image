@@ -6,7 +6,7 @@ Behind this question are hidden multiple realities. Indeed, panoramic photograph
 Image Stitching with OpenCV and Python
 In the first part of today’s tutorial, we’ll briefly review OpenCV’s image stitching algorithm that is baked into the OpenCV library itself via cv2.createStitcher and cv2.Stitcher_create functions.
 
-From there we’ll review our project structure and implement a Python script that can be used for image stitching.
+From there we will review our project structure and implement a Python script that can be used for image stitching.
 
 We’ll review the results of this first script, note its limitations, and then implement a second Python script that can be used for more aesthetically pleasing image stitching results.
 
